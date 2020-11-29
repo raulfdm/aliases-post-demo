@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "CommonJS",
+    "outDir": "dist",
+    "moduleResolution": "Node",
+    /* Base URL is a MUST. */
+    "baseUrl": ".",
+    /* Your aliases will live here */
+    "paths": {
+      "models/*": [
+        "src/models/*"
+      ],
+      "helpers/*": [
+        "src/helpers/*"
+      ],
+    }
+  }
+}
