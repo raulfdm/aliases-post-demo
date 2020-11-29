@@ -1,8 +1,8 @@
-# Rollup Alias example
+# Rollup + Babel Alias example
 
 > TODO: article Link
 
-This repo shows how to setup aliases using Rollup.
+This repo shows how to setup aliases using Rollup with Babel.
 
 ## How to run
 
