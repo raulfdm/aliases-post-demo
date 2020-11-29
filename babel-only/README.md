@@ -1,6 +1,6 @@
 # Babel Aliases Example
 
-> TODO: article Link
+> https://raulmelo.dev/blog/module-resolution-or-import-alias-the-final-guide#babel
 
 This repo shows how to setup aliases using Babel.
 

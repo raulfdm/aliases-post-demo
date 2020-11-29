@@ -1,6 +1,6 @@
 # Jest Aliases
 
-> TODO: article Link
+> https://raulmelo.dev/blog/module-resolution-or-import-alias-the-final-guide#jest
 
 This repo shows how to setup aliases using Jest.
 

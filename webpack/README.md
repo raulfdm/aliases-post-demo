@@ -1,6 +1,6 @@
 # Webpack Alias example
 
-> TODO: article Link
+> https://raulmelo.dev/blog/module-resolution-or-import-alias-the-final-guide#webpack
 
 This repo shows how to setup aliases using Webpack.
 

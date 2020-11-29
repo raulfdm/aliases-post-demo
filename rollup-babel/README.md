@@ -1,6 +1,6 @@
 # Rollup + Babel Alias example
 
-> TODO: article Link
+> https://raulmelo.dev/blog/module-resolution-or-import-alias-the-final-guide#rollup
 
 This repo shows how to setup aliases using Rollup with Babel.
 

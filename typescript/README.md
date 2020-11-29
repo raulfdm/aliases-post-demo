@@ -1,6 +1,6 @@
 # TypeScript
 
-> TODO: article Link
+> https://raulmelo.dev/blog/module-resolution-or-import-alias-the-final-guide#typescript
 
 This repo shows how to setup aliases using TypeScript.
 

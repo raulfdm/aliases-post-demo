@@ -2,7 +2,7 @@
 
 # NextJS + Webpack aliases
 
-> TODO: article link
+> https://raulmelo.dev/blog/module-resolution-or-import-alias-the-final-guide#webpack
 
 This repo shows how to use aliases by extending webpack config from NextJS.
 
